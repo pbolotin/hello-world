@@ -6,3 +6,6 @@ Simple Hello!
 Add from local
 
 Test pull from local
+
+Test pull
+
