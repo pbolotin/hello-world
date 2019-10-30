@@ -4,3 +4,5 @@ test repository
 Simple Hello!
 
 Add from local
+
+Test pull
